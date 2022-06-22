@@ -2,7 +2,7 @@
 
 package pbytes
 
-import "github.com/gobwas/pool"
+import "github.com/marks12/pool"
 
 // Pool contains logic of reusing byte slices of various size.
 type Pool struct {

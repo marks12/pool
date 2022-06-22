@@ -1,6 +1,6 @@
 package pool
 
-import "github.com/gobwas/pool/internal/pmath"
+import "github.com/marks12/pool/internal/pmath"
 
 // Option configures pool.
 type Option func(Config)

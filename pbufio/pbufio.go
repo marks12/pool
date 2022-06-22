@@ -5,7 +5,7 @@ import (
 	"bufio"
 	"io"
 
-	"github.com/gobwas/pool"
+	"github.com/marks12/pool"
 )
 
 var (
